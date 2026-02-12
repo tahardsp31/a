@@ -348,3 +348,390 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=753363&exte
 #EXTINF:-1 tvg-id="753363" tvg-logo="http://51.158.145.100/picons/logos/arabic/753363.png" group-title="|AR| ALGERIA",DZ -  AL MAGHARIBIA 
 
 
+
+
+#EXTINF:-1 tvg-id="1156649" tvg-logo="http://51.158.145.100/picons/logos/bein/1156649.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 1 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156649&extension=m3u8
+#EXTINF:-1 tvg-id="1156648" tvg-logo="http://51.158.145.100/picons/logos/bein/1156648.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 2 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156648&extension=m3u8
+#EXTINF:-1 tvg-id="1156647" tvg-logo="http://51.158.145.100/picons/logos/bein/1156647.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 3 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156647&extension=m3u8
+#EXTINF:-1 tvg-id="1156646" tvg-logo="http://51.158.145.100/picons/logos/bein/1156646.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 4 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156646&extension=m3u8
+#EXTINF:-1 tvg-id="1156645" tvg-logo="http://51.158.145.100/picons/logos/bein/1156645.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 5 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156645&extension=m3u8
+#EXTINF:-1 tvg-id="1156644" tvg-logo="http://51.158.145.100/picons/logos/bein/1156644.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 6 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156644&extension=m3u8
+#EXTINF:-1 tvg-id="1156643" tvg-logo="http://51.158.145.100/picons/logos/bein/1156643.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 7 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156643&extension=m3u8
+#EXTINF:-1 tvg-id="1156642" tvg-logo="http://51.158.145.100/picons/logos/bein/1156642.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 8 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156642&extension=m3u8
+#EXTINF:-1 tvg-id="1156641" tvg-logo="http://51.158.145.100/picons/logos/bein/1156641.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 9 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156641&extension=m3u8
+#EXTINF:-1 tvg-id="1156640" tvg-logo="http://51.158.145.100/picons/logos/arabic/1156640.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156640&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156640&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156640&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156640&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156640&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156640&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156640&extension=m3u8
+#EXTINF:-1 tvg-id="1156639" tvg-logo="http://51.158.145.100/picons/logos/bein/1156639.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156639&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156639&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156639&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156639&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156639&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156639&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156639&extension=m3u8
+#EXTINF:-1 tvg-id="1156638" tvg-logo="http://51.158.145.100/picons/logos/bein/1156638.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 1 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156638&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156638&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156638&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156638&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156638&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156638&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156638&extension=m3u8
+#EXTINF:-1 tvg-id="1156637" tvg-logo="http://51.158.145.100/picons/logos/bein/1156637.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 2 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156637&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156637&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156637&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156637&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156637&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156637&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156637&extension=m3u8
+#EXTINF:-1 tvg-id="1156636" tvg-logo="http://51.158.145.100/picons/logos/bein/1156636.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 3 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156636&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156636&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156636&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156636&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156636&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156636&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156636&extension=m3u8
+#EXTINF:-1 tvg-id="1156635" tvg-logo="http://51.158.145.100/picons/logos/bein/1156635.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS  AFC 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156635&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156635&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156635&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156635&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156635&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156635&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156635&extension=m3u8
+#EXTINF:-1 tvg-id="1156634" tvg-logo="http://51.158.145.100/picons/logos/bein/1156634.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 1 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156634&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156634&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156634&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156634&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156634&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156634&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156634&extension=m3u8
+#EXTINF:-1 tvg-id="1156633" tvg-logo="http://51.158.145.100/picons/logos/bein/1156633.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 2 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156633&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156633&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156633&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156633&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156633&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156633&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156633&extension=m3u8
+#EXTINF:-1 tvg-id="1156632" tvg-logo="http://51.158.145.100/picons/logos/bein/1156632.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 3 720
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156632&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156632&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156632&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156632&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156632&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156632&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156632&extension=m3u8
+#EXTINF:-1 tvg-id="1156631" tvg-logo="http://51.158.145.100/picons/logos/bein/1156631.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 1 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156631&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156631&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156631&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156631&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156631&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156631&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156631&extension=m3u8
+#EXTINF:-1 tvg-id="1156630" tvg-logo="http://51.158.145.100/picons/logos/bein/1156630.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 2 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156630&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156630&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156630&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156630&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156630&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156630&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156630&extension=m3u8
+#EXTINF:-1 tvg-id="1156629" tvg-logo="http://51.158.145.100/picons/logos/bein/1156629.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 3 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156629&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156629&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156629&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156629&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156629&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156629&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156629&extension=m3u8
+#EXTINF:-1 tvg-id="1156628" tvg-logo="http://51.158.145.100/picons/logos/bein/1156628.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 4 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156628&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156628&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156628&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156628&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156628&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156628&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156628&extension=m3u8
+#EXTINF:-1 tvg-id="1156627" tvg-logo="http://51.158.145.100/picons/logos/bein/1156627.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 5 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156627&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156627&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156627&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156627&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156627&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156627&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156627&extension=m3u8
+#EXTINF:-1 tvg-id="1156626" tvg-logo="http://51.158.145.100/picons/logos/bein/1156626.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 6 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156626&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156626&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156626&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156626&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156626&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156626&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156626&extension=m3u8
+#EXTINF:-1 tvg-id="1156625" tvg-logo="http://51.158.145.100/picons/logos/bein/1156625.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 7 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156625&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156625&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156625&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156625&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156625&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156625&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156625&extension=m3u8
+#EXTINF:-1 tvg-id="1156624" tvg-logo="http://51.158.145.100/picons/logos/bein/1156624.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 8 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156624&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156624&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156624&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156624&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156624&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156624&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156624&extension=m3u8
+#EXTINF:-1 tvg-id="1156623" tvg-logo="http://51.158.145.100/picons/logos/bein/1156623.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 9 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156623&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156623&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156623&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156623&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156623&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156623&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156623&extension=m3u8
+#EXTINF:-1 tvg-id="1156622" tvg-logo="http://51.158.145.100/picons/logos/bein/1156622.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156622&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156622&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156622&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156622&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156622&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156622&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156622&extension=m3u8
+#EXTINF:-1 tvg-id="1156621" tvg-logo="http://51.158.145.100/picons/logos/bein/1156621.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156621&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156621&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156621&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156621&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156621&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156621&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156621&extension=m3u8
+#EXTINF:-1 tvg-id="1156620" tvg-logo="http://51.158.145.100/picons/logos/bein/1156620.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 1 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156620&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156620&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156620&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156620&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156620&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156620&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156620&extension=m3u8
+#EXTINF:-1 tvg-id="1156619" tvg-logo="http://51.158.145.100/picons/logos/bein/1156619.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 2 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156619&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156619&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156619&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156619&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156619&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156619&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156619&extension=m3u8
+#EXTINF:-1 tvg-id="1156618" tvg-logo="http://51.158.145.100/picons/logos/bein/1156618.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS XTRA 3 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156618&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156618&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156618&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156618&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156618&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156618&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156618&extension=m3u8
+#EXTINF:-1 tvg-id="1156617" tvg-logo="http://51.158.145.100/picons/logos/bein/1156617.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS  AFC 4k
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156617&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156617&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156617&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156617&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156617&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156617&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156617&extension=m3u8
+#EXTINF:-1 tvg-id="1156616" tvg-logo="http://51.158.145.100/picons/logos/bein/1156616.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 1 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156616&extension=m3u8
+#EXTINF:-1 tvg-id="1156615" tvg-logo="http://51.158.145.100/picons/logos/bein/1156615.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 2 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156615&extension=m3u8
+#EXTINF:-1 tvg-id="1156614" tvg-logo="http://51.158.145.100/picons/logos/bein/1156614.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS AFC 3 4K
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156614&extension=m3u8
+#EXTINF:-1 tvg-id="1156613" tvg-logo="http://51.158.145.100/picons/logos/bein/1156613.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 1 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156613&extension=m3u8
+#EXTINF:-1 tvg-id="1156612" tvg-logo="http://51.158.145.100/picons/logos/bein/1156612.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 2 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156612&extension=m3u8
+#EXTINF:-1 tvg-id="1156611" tvg-logo="http://51.158.145.100/picons/logos/bein/1156611.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 3 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156611&extension=m3u8
+#EXTINF:-1 tvg-id="1156610" tvg-logo="http://51.158.145.100/picons/logos/bein/1156610.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 4 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156610&extension=m3u8
+#EXTINF:-1 tvg-id="1156609" tvg-logo="http://51.158.145.100/picons/logos/bein/1156609.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 5 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156609&extension=m3u8
+#EXTINF:-1 tvg-id="1156608" tvg-logo="http://51.158.145.100/picons/logos/bein/1156608.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 6 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156608&extension=m3u8
+#EXTINF:-1 tvg-id="1156607" tvg-logo="http://51.158.145.100/picons/logos/bein/1156607.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 7 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156607&extension=m3u8
+#EXTINF:-1 tvg-id="1156606" tvg-logo="http://51.158.145.100/picons/logos/bein/1156606.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 8 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156606&extension=m3u8
+#EXTINF:-1 tvg-id="1156605" tvg-logo="http://51.158.145.100/picons/logos/bein/1156605.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS 9 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156605&extension=m3u8
+#EXTINF:-1 tvg-id="1156604" tvg-logo="http://51.158.145.100/picons/logos/bein/1156604.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 1 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156604&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156604&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156604&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156604&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156604&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156604&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156604&extension=m3u8
+#EXTINF:-1 tvg-id="1156603" tvg-logo="http://51.158.145.100/picons/logos/bein/1156603.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS ENGLISH 2 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156603&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156603&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156603&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156603&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156603&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156603&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156603&extension=m3u8
+#EXTINF:-1 tvg-id="1156602" tvg-logo="http://51.158.145.100/picons/logos/bein/1156602.png" group-title="|AR| BEIN SPORTS NX",BEIN SPORTS  AFC 480
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=1156602&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=1156602&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=1156602&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=1156602&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=1156602&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=1156602&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=1156602&extension=m3u8
+
