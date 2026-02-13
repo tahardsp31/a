@@ -2636,3 +2636,382 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=862824&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=862824&extension=m3u8
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=862824&extension=m3u8
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=862824&extension=m3u8
+
+
+
+#EXTINF:-1 tvg-id="250152" tvg-logo="http://51.158.145.100/picons/logos/arabic/250152.png" group-title="|AR| ARABIC NEWS & FACTUAL",##### AR - NEWS ##### 
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250152&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250152&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250152&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250152&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250152&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250152&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250152&extension=m3u8
+#EXTINF:-1 tvg-id="680105" tvg-logo="http://51.158.145.100/picons/logos/arabic/680105.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA SD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=680105&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=680105&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=680105&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=680105&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=680105&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=680105&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=680105&extension=m3u8
+#EXTINF:-1 tvg-id="674438" tvg-logo="http://51.158.145.100/picons/logos/arabic/674438.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=674438&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=674438&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=674438&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=674438&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=674438&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=674438&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=674438&extension=m3u8
+#EXTINF:-1 tvg-id="250187" tvg-logo="http://51.158.145.100/picons/logos/arabic/250187.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250187&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250187&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250187&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250187&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250187&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250187&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250187&extension=m3u8
+#EXTINF:-1 tvg-id="250166" tvg-logo="http://51.158.145.100/picons/logos/arabic/250166.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA MUBASHER
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250166&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250166&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250166&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250166&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250166&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250166&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250166&extension=m3u8
+#EXTINF:-1 tvg-id="250185" tvg-logo="http://51.158.145.100/picons/logos/arabic/250185.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL ARABIYA
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250185&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250185&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250185&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250185&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250185&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250185&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250185&extension=m3u8
+#EXTINF:-1 tvg-id="250189" tvg-logo="http://51.158.145.100/picons/logos/arabic/250189.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL ARABIYA AL HADATH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250189&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250189&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250189&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250189&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250189&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250189&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250189&extension=m3u8
+#EXTINF:-1 tvg-id="679900" tvg-logo="http://51.158.145.100/picons/logos/arabic/679900.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL ARABIYA AL HADATH HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=679900&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=679900&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=679900&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=679900&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=679900&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=679900&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=679900&extension=m3u8
+#EXTINF:-1 tvg-id="250184" tvg-logo="http://51.158.145.100/picons/logos/arabic/250184.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL ARABY
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250184&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250184&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250184&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250184&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250184&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250184&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250184&extension=m3u8
+#EXTINF:-1 tvg-id="807508" tvg-logo="http://51.158.145.100/picons/logos/arabic/807508.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL QAHERA NEWS
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=807508&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=807508&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=807508&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=807508&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=807508&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=807508&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=807508&extension=m3u8
+#EXTINF:-1 tvg-id="250178" tvg-logo="http://51.158.145.100/picons/logos/arabic/250178.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - BBC ARABIC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250178&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250178&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250178&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250178&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250178&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250178&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250178&extension=m3u8
+#EXTINF:-1 tvg-id="250172" tvg-logo="http://51.158.145.100/picons/logos/arabic/250172.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - FRANCE 24
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250172&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250172&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250172&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250172&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250172&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250172&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250172&extension=m3u8
+#EXTINF:-1 tvg-id="250176" tvg-logo="http://51.158.145.100/picons/logos/arabic/250176.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZEERA ENGLISH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250176&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250176&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250176&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250176&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250176&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250176&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250176&extension=m3u8
+#EXTINF:-1 tvg-id="250186" tvg-logo="http://51.158.145.100/picons/logos/arabic/250186.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZEERA DOCUMENTARY
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250186&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250186&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250186&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250186&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250186&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250186&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250186&extension=m3u8
+#EXTINF:-1 tvg-id="250155" tvg-logo="http://51.158.145.100/picons/logos/arabic/250155.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - RT ARABIC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250155&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250155&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250155&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250155&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250155&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250155&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250155&extension=m3u8
+#EXTINF:-1 tvg-id="250171" tvg-logo="http://51.158.145.100/picons/logos/arabic/250171.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - DW ARABIC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250171&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250171&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250171&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250171&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250171&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250171&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250171&extension=m3u8
+#EXTINF:-1 tvg-id="716860" tvg-logo="http://51.158.145.100/picons/logos/arabic/716860.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - ASHARQ
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=716860&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=716860&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=716860&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=716860&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=716860&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=716860&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=716860&extension=m3u8
+#EXTINF:-1 tvg-id="250175" tvg-logo="http://51.158.145.100/picons/logos/arabic/250175.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - HADATH NEWS
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250175&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250175&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250175&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250175&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250175&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250175&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250175&extension=m3u8
+#EXTINF:-1 tvg-id="250170" tvg-logo="http://51.158.145.100/picons/logos/arabic/250170.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - TRT ARABIC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250170&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250170&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250170&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250170&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250170&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250170&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250170&extension=m3u8
+#EXTINF:-1 tvg-id="250177" tvg-logo="http://51.158.145.100/picons/logos/arabic/250177.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - BBC WORLD NEWS
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250177&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250177&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250177&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250177&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250177&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250177&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250177&extension=m3u8
+#EXTINF:-1 tvg-id="250159" tvg-logo="http://51.158.145.100/picons/logos/arabic/250159.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL ALAM NEWS CHANNEL
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250159&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250159&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250159&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250159&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250159&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250159&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250159&extension=m3u8
+#EXTINF:-1 tvg-id="250181" tvg-logo="http://51.158.145.100/picons/logos/arabic/250181.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - SKY NEWS ARABIA
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250181&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250181&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250181&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250181&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250181&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250181&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250181&extension=m3u8
+#EXTINF:-1 tvg-id="250154" tvg-logo="http://51.158.145.100/picons/logos/arabic/250154.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - I24 NEWS
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250154&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250154&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250154&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250154&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250154&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250154&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250154&extension=m3u8
+#EXTINF:-1 tvg-id="250161" tvg-logo="http://51.158.145.100/picons/logos/arabic/250161.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - I24 NEWS ENGLISH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250161&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250161&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250161&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250161&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250161&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250161&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250161&extension=m3u8
+#EXTINF:-1 tvg-id="250169" tvg-logo="http://51.158.145.100/picons/logos/arabic/250169.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL AYAM TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250169&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250169&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250169&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250169&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250169&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250169&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250169&extension=m3u8
+#EXTINF:-1 tvg-id="288713" tvg-logo="http://51.158.145.100/picons/logos/arabic/288713.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL HURRA
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=288713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=288713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=288713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=288713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=288713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=288713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=288713&extension=m3u8
+#EXTINF:-1 tvg-id="993320" tvg-logo="http://51.158.145.100/picons/logos/arabic/993320.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL HIWAR FHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=993320&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=993320&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=993320&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=993320&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=993320&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=993320&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=993320&extension=m3u8
+#EXTINF:-1 tvg-id="598099" tvg-logo="http://51.158.145.100/picons/logos/arabic/598099.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL MAYADEEN
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=598099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=598099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=598099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=598099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=598099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=598099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=598099&extension=m3u8
+#EXTINF:-1 tvg-id="250156" tvg-logo="http://51.158.145.100/picons/logos/arabic/250156.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL HAQEQA DAWALAH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250156&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250156&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250156&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250156&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250156&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250156&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250156&extension=m3u8
+#EXTINF:-1 tvg-id="250183" tvg-logo="http://51.158.145.100/picons/logos/arabic/250183.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - ALYAUM TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250183&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250183&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250183&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250183&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250183&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250183&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250183&extension=m3u8
+#EXTINF:-1 tvg-id="250180" tvg-logo="http://51.158.145.100/picons/logos/arabic/250180.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL HADATH NEWS HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250180&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250180&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250180&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250180&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250180&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250180&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250180&extension=m3u8
+#EXTINF:-1 tvg-id="250157" tvg-logo="http://51.158.145.100/picons/logos/arabic/250157.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - CGTN DOCUMENTARY
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250157&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250157&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250157&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250157&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250157&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250157&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250157&extension=m3u8
+#EXTINF:-1 tvg-id="250165" tvg-logo="http://51.158.145.100/picons/logos/arabic/250165.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - CGTN NEWS
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250165&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250165&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250165&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250165&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250165&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250165&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250165&extension=m3u8
+#EXTINF:-1 tvg-id="250188" tvg-logo="http://51.158.145.100/picons/logos/arabic/250188.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - I24 NEWS ARABIC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250188&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250188&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250188&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250188&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250188&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250188&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250188&extension=m3u8
+#EXTINF:-1 tvg-id="250174" tvg-logo="http://51.158.145.100/picons/logos/arabic/250174.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - CNN NEWS
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250174&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250174&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250174&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250174&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250174&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250174&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250174&extension=m3u8
+#EXTINF:-1 tvg-id="686354" tvg-logo="http://51.158.145.100/picons/logos/arabic/686354.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - CNBC ARABIC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=686354&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=686354&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=686354&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=686354&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=686354&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=686354&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=686354&extension=m3u8
+#EXTINF:-1 tvg-id="250164" tvg-logo="http://51.158.145.100/picons/logos/arabic/250164.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - DW ENGLISH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250164&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250164&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250164&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250164&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250164&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250164&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250164&extension=m3u8
+#EXTINF:-1 tvg-id="250173" tvg-logo="http://51.158.145.100/picons/logos/arabic/250173.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - EXTRA NEWS
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250173&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250173&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250173&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250173&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250173&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250173&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250173&extension=m3u8
+#EXTINF:-1 tvg-id="250167" tvg-logo="http://51.158.145.100/picons/logos/arabic/250167.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - FRANCE 24 ARABIC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250167&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250167&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250167&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250167&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250167&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250167&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250167&extension=m3u8
+#EXTINF:-1 tvg-id="250168" tvg-logo="http://51.158.145.100/picons/logos/arabic/250168.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - FRANCE 24 ENGLISH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250168&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250168&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250168&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250168&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250168&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250168&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250168&extension=m3u8
+#EXTINF:-1 tvg-id="250162" tvg-logo="http://51.158.145.100/picons/logos/arabic/250162.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - FRANCE 24 ENGLISH UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250162&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250162&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250162&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250162&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250162&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250162&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250162&extension=m3u8
+#EXTINF:-1 tvg-id="250163" tvg-logo="http://51.158.145.100/picons/logos/arabic/250163.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - FRANCE 24 FRANCE
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250163&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250163&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250163&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250163&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250163&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250163&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250163&extension=m3u8
+#EXTINF:-1 tvg-id="250179" tvg-logo="http://51.158.145.100/picons/logos/arabic/250179.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - INEWS TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250179&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250179&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250179&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250179&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250179&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250179&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250179&extension=m3u8
+#EXTINF:-1 tvg-id="250182" tvg-logo="http://51.158.145.100/picons/logos/arabic/250182.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - LIBYA SALAM TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250182&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250182&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250182&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250182&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250182&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250182&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250182&extension=m3u8
+#EXTINF:-1 tvg-id="250158" tvg-logo="http://51.158.145.100/picons/logos/arabic/250158.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - PRESS TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250158&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250158&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250158&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250158&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250158&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250158&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250158&extension=m3u8
+#EXTINF:-1 tvg-id="250160" tvg-logo="http://51.158.145.100/picons/logos/arabic/250160.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - RUSIA TODAY ENGLISH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250160&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250160&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250160&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250160&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250160&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250160&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250160&extension=m3u8
+#EXTINF:-1 tvg-id="250153" tvg-logo="http://51.158.145.100/picons/logos/arabic/250153.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - TRT AL ARABIA
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=250153&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250153&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=250153&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250153&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250153&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250153&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250153&extension=m3u8
