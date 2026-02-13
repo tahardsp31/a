@@ -7331,3 +7331,93 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=249530&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=249530&extension=m3u8
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=249530&extension=m3u8
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=249530&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="909102" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",##### HBO #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909102&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909102&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909102&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909102&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909102&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909102&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909102&extension=m3u8
+#EXTINF:-1 tvg-id="909101" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO TOP TEN
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909101&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909101&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909101&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909101&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909101&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909101&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909101&extension=m3u8
+#EXTINF:-1 tvg-id="909100" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO NOW MOVIES
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909100&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909100&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909100&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909100&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909100&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909100&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909100&extension=m3u8
+#EXTINF:-1 tvg-id="909099" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO ACTION
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909099&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909099&extension=m3u8
+#EXTINF:-1 tvg-id="909098" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO HISTORY
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909098&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909098&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909098&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909098&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909098&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909098&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909098&extension=m3u8
+#EXTINF:-1 tvg-id="909097" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO CRIME
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909097&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909097&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909097&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909097&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909097&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909097&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909097&extension=m3u8
+#EXTINF:-1 tvg-id="909096" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO MAX
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909096&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909096&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909096&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909096&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909096&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909096&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909096&extension=m3u8
+#EXTINF:-1 tvg-id="909095" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO ARABIC
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909095&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909095&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909095&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909095&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909095&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909095&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909095&extension=m3u8
+#EXTINF:-1 tvg-id="909094" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO ASIAN
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909094&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909094&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909094&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909094&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909094&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909094&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909094&extension=m3u8
+#EXTINF:-1 tvg-id="909093" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO BOLLYWOOD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909093&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909093&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909093&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909093&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909093&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909093&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909093&extension=m3u8
+#EXTINF:-1 tvg-id="909092" tvg-logo="http://51.158.145.100/picons/logos/arabic/HBOMAX.png" group-title="|AR| HBO",AR - HBO ANIMATION
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=909092&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=909092&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=909092&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=909092&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=909092&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=909092&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=909092&extension=m3u8
