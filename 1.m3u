@@ -3015,3 +3015,558 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=250153&exte
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=250153&extension=m3u8
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=250153&extension=m3u8
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=250153&extension=m3u8
+
+
+
+#EXTINF:-1 tvg-id="756861" tvg-logo="http://51.158.145.100/picons/logos/logos/ABU-DHABI.png" group-title="|AR| ARABIC VIP",##### UAE VIP #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=756861&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=756861&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=756861&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=756861&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=756861&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=756861&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=756861&extension=m3u8
+#EXTINF:-1 tvg-id="257321" tvg-logo="https://logo.protv.cc/piconsnew/nationalgeo.png" group-title="|AR| ARABIC VIP",AR - ABU DHABI NATIOANL GEO UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257321&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257321&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257321&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257321&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257321&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257321&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257321&extension=m3u8
+#EXTINF:-1 tvg-id="257322" tvg-logo="https://logo.protv.cc/piconsnew/nationalgeo.png" group-title="|AR| ARABIC VIP",AR - NATIONAL GEO ABU DHABI
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257322&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257322&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257322&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257322&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257322&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257322&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257322&extension=m3u8
+#EXTINF:-1 tvg-id="257749" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/AJMAN.png" group-title="|AR| ARABIC VIP",AR - AJMAN TV UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257749&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257749&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257749&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257749&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257749&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257749&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257749&extension=m3u8
+#EXTINF:-1 tvg-id="257482" tvg-logo="http://51.158.145.100/picons/logos/logos/dubaisports2.png" group-title="|AR| ARABIC VIP",AR - DUBAI SPORT2
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257482&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257482&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257482&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257482&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257482&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257482&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257482&extension=m3u8
+#EXTINF:-1 tvg-id="257483" tvg-logo="https://logo.protv.cc/piconsnew/dubaisports3.png" group-title="|AR| ARABIC VIP",AR - DUBAI SPORT 3 UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257483&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257483&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257483&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257483&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257483&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257483&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257483&extension=m3u8
+#EXTINF:-1 tvg-id="257484" tvg-logo="http://51.158.145.100/picons/logos/logos/yas.png" group-title="|AR| ARABIC VIP",AR - YAS SPORT UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257484&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257484&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257484&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257484&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257484&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257484&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257484&extension=m3u8
+#EXTINF:-1 tvg-id="570340" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/QATAR.png" group-title="|AR| ARABIC VIP",##### QATAR  VIP #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=570340&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=570340&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=570340&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=570340&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=570340&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=570340&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=570340&extension=m3u8
+#EXTINF:-1 tvg-id="570335" tvg-logo="https://logo.protv.cc/piconsnew/alrayyan.png" group-title="|AR| ARABIC VIP",AR - RAYYAN UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=570335&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=570335&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=570335&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=570335&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=570335&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=570335&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=570335&extension=m3u8
+#EXTINF:-1 tvg-id="570334" tvg-logo="https://logo.protv.cc/piconsnew/alrayyanalqadeemhd.png" group-title="|AR| ARABIC VIP",AR - AL RAYYAN AL QADEEM UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=570334&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=570334&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=570334&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=570334&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=570334&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=570334&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=570334&extension=m3u8
+#EXTINF:-1 tvg-id="570339" tvg-logo="https://logo.protv.cc/piconsnew/qatartv.png" group-title="|AR| ARABIC VIP",AR - QATAR TV HD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=570339&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=570339&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=570339&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=570339&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=570339&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=570339&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=570339&extension=m3u8
+#EXTINF:-1 tvg-id="570338" tvg-logo="https://logo.protv.cc/piconsnew/qatar2.png" group-title="|AR| ARABIC VIP",AR - QATAR 2 UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=570338&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=570338&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=570338&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=570338&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=570338&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=570338&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=570338&extension=m3u8
+#EXTINF:-1 tvg-id="570337" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/QATAR-TODAY-1-SOON.png" group-title="|AR| ARABIC VIP",AR - QATAR TODAY 1 SOON
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=570337&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=570337&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=570337&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=570337&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=570337&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=570337&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=570337&extension=m3u8
+#EXTINF:-1 tvg-id="377598" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/BIN-OTHAIMEEN.png" group-title="|AR| ARABIC VIP",AR - BIN OTHAIMEEN
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377598&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377598&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377598&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377598&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377598&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377598&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377598&extension=m3u8
+#EXTINF:-1 tvg-id="377593" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/AL-HAQEQA-AL-DAWLIAH.png" group-title="|AR| ARABIC VIP",AR - AL HAQEQA DAWALAH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377593&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377593&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377593&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377593&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377593&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377593&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377593&extension=m3u8
+#EXTINF:-1 tvg-id="377591" tvg-logo="http://51.158.145.100/picons/logos/logos/MECCA.png" group-title="|AR| ARABIC VIP",AR - MECCA
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377591&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377591&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377591&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377591&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377591&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377591&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377591&extension=m3u8
+#EXTINF:-1 tvg-id="705319" tvg-logo="https://logo.protv.cc/piconsnew/iqraainternational.png" group-title="|AR| ARABIC VIP",AR - IQRAA INTERNATIONAL
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=705319&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=705319&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=705319&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=705319&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=705319&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=705319&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=705319&extension=m3u8
+#EXTINF:-1 tvg-id="377592" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/IQRAA.png" group-title="|AR| ARABIC VIP",AR - IQRAA TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377592&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377592&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377592&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377592&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377592&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377592&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377592&extension=m3u8
+#EXTINF:-1 tvg-id="377651" tvg-logo="https://logo.protv.cc/piconsnew/alwaqietvhd.png" group-title="|AR| ARABIC VIP",AR - ALWAQIE TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377651&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377651&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377651&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377651&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377651&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377651&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377651&extension=m3u8
+#EXTINF:-1 tvg-id="377587" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/AL-ITHAD.png" group-title="|AR| ARABIC VIP",AR - AL ITHAD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377587&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377587&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377587&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377587&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377587&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377587&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377587&extension=m3u8
+#EXTINF:-1 tvg-id="377594" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD.png" group-title="|AR| ARABIC VIP",AR - ALMAJD QURAN
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377594&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377594&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377594&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377594&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377594&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377594&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377594&extension=m3u8
+#EXTINF:-1 tvg-id="377650" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD-INFO.png" group-title="|AR| ARABIC VIP",AR - ALMAJD EKHBARIE
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377650&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377650&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377650&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377650&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377650&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377650&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377650&extension=m3u8
+#EXTINF:-1 tvg-id="377649" tvg-logo="http://51.158.145.100/picons/logos/arabic/ALMAJD-DOCUMENTARY.png" group-title="|AR| ARABIC VIP",AR - ALMAJD DOCUMENTARY
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377649&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377649&extension=m3u8
+#EXTINF:-1 tvg-id="377648" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD-AL-TABEEAIYAH.png" group-title="|AR| ARABIC VIP",AR - ALMAJD AL TABEEAIYAH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377648&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377648&extension=m3u8
+#EXTINF:-1 tvg-id="377647" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD-INFO.png" group-title="|AR| ARABIC VIP",AR - ALMAJD  INFO
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377647&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377647&extension=m3u8
+#EXTINF:-1 tvg-id="377646" tvg-logo="http://51.158.145.100/picons/logos/arabic/AL-MAJD-BASMAH.png" group-title="|AR| ARABIC VIP",AR - ALMAJD BASMAH
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377646&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377646&extension=m3u8
+#EXTINF:-1 tvg-id="377645" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD-RAWDA.png" group-title="|AR| ARABIC VIP",AR - ALMAJD RAWDA
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377645&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377645&extension=m3u8
+#EXTINF:-1 tvg-id="377644" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD-INFO.png" group-title="|AR| ARABIC VIP",AR - ALMAJD TAGHAREED
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377644&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377644&extension=m3u8
+#EXTINF:-1 tvg-id="377643" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD-RELIGIOUS-SCIENCE.png" group-title="|AR| ARABIC VIP",AR - ALMAJD RELIGIOUS SCIENCE
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377643&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377643&extension=m3u8
+#EXTINF:-1 tvg-id="377642" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD-INFO.png" group-title="|AR| ARABIC VIP",AR - ALMAJD SPACE TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377642&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377642&extension=m3u8
+#EXTINF:-1 tvg-id="377641" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALMAJD-INFO.png" group-title="|AR| ARABIC VIP",AR - ALMAJD GENERAL
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377641&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377641&extension=m3u8
+#EXTINF:-1 tvg-id="377616" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 1
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377616&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377616&extension=m3u8
+#EXTINF:-1 tvg-id="377615" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 2
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377615&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377615&extension=m3u8
+#EXTINF:-1 tvg-id="377614" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 3
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377614&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377614&extension=m3u8
+#EXTINF:-1 tvg-id="377613" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 4
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377613&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377613&extension=m3u8
+#EXTINF:-1 tvg-id="377612" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 5
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377612&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377612&extension=m3u8
+#EXTINF:-1 tvg-id="377611" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 6
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377611&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377611&extension=m3u8
+#EXTINF:-1 tvg-id="377610" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 7
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377610&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377610&extension=m3u8
+#EXTINF:-1 tvg-id="377609" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377609&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377609&extension=m3u8
+#EXTINF:-1 tvg-id="377608" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 9
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377608&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377608&extension=m3u8
+#EXTINF:-1 tvg-id="377607" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 10
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377607&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377607&extension=m3u8
+#EXTINF:-1 tvg-id="377605" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 12
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377605&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377605&extension=m3u8
+#EXTINF:-1 tvg-id="377606" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/DOROS.png" group-title="|AR| ARABIC VIP",AR - DOROS 11
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=377606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=377606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=377606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=377606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=377606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=377606&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=377606&extension=m3u8
+#EXTINF:-1 tvg-id="257512" tvg-logo="https://findicons.com/files/icons/662/world_flag/256/flag_of_mauritania.png" group-title="|AR| ARABIC VIP",##### MAURITANIA VIP #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257512&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257512&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257512&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257512&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257512&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257512&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257512&extension=m3u8
+#EXTINF:-1 tvg-id="257518" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ALBARLEMANIA.png" group-title="|AR| ARABIC VIP",AR - AL BARLEMANIA
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257518&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257518&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257518&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257518&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257518&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257518&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257518&extension=m3u8
+#EXTINF:-1 tvg-id="257513" tvg-logo="http://103.176.90.118/picons-dino/logos/AL-MOURITANIYA.png" group-title="|AR| ARABIC VIP",AR - AL MOURITANIYA UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257513&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257513&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257513&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257513&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257513&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257513&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257513&extension=m3u8
+#EXTINF:-1 tvg-id="257519" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ELMAHADRA.png" group-title="|AR| ARABIC VIP",AR - EL MAHADRA
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257519&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257519&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257519&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257519&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257519&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257519&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257519&extension=m3u8
+#EXTINF:-1 tvg-id="257517" tvg-logo="http://51.158.145.100/picons/logos/logos/elmourabitontv.png" group-title="|AR| ARABIC VIP",AR - ELMOURABITON TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257517&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257517&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257517&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257517&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257517&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257517&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257517&extension=m3u8
+#EXTINF:-1 tvg-id="257514" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MAURITANIAN2.png" group-title="|AR| ARABIC VIP",AR - MAURITANIAN 2 TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257514&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257514&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257514&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257514&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257514&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257514&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257514&extension=m3u8
+#EXTINF:-1 tvg-id="257516" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MAURITANIA-ARRIADIA.png" group-title="|AR| ARABIC VIP",AR - MAURITANIA ARRIADIA TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257516&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257516&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257516&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257516&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257516&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257516&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257516&extension=m3u8
+#EXTINF:-1 tvg-id="257515" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MOURITANIA-ATHAGAVIA.png" group-title="|AR| ARABIC VIP",AR - MAURITANIA ATHAGAVIA TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257515&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257515&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257515&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257515&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257515&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257515&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257515&extension=m3u8
+#EXTINF:-1 tvg-id="257528" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/TANASUH.png" group-title="|AR| ARABIC VIP",AR - TANASUH TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257528&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257528&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257528&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257528&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257528&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257528&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257528&extension=m3u8
+#EXTINF:-1 tvg-id="257712" tvg-logo="http://51.158.145.100/picons/logos/logos/BAHRAIN.png" group-title="|AR| ARABIC VIP",##### BAHRAIN VIP #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257712&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257712&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257712&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257712&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257712&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257712&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257712&extension=m3u8
+#EXTINF:-1 tvg-id="257714" tvg-logo="https://logo.protv.cc/piconsnew/bahrainsport1hd.png" group-title="|AR| ARABIC VIP",AR - BAHRAIN INTERNATIONAL UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257714&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257714&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257714&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257714&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257714&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257714&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257714&extension=m3u8
+#EXTINF:-1 tvg-id="257716" tvg-logo="https://logo.protv.cc/piconsnew/bahrainsport1hd.png" group-title="|AR| ARABIC VIP",AR - BAHRAIN QURAN
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257716&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257716&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257716&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257716&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257716&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257716&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257716&extension=m3u8
+#EXTINF:-1 tvg-id="257718" tvg-logo="https://logo.protv.cc/piconsnew/bahrainsport1hd.png" group-title="|AR| ARABIC VIP",AR - BAHRAIN SPORT 1
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257718&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257718&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257718&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257718&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257718&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257718&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257718&extension=m3u8
+#EXTINF:-1 tvg-id="257719" tvg-logo="https://logo.protv.cc/piconsnew/bahrainsport2hd.png" group-title="|AR| ARABIC VIP",AR - BAHRAIN SPORT 2
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257719&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257719&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257719&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257719&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257719&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257719&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257719&extension=m3u8
+#EXTINF:-1 tvg-id="257713" tvg-logo="https://logo.protv.cc/piconsnew/bahrainhd.png" group-title="|AR| ARABIC VIP",AR - BAHRAIN UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257713&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257713&extension=m3u8
+#EXTINF:-1 tvg-id="257720" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/AL-ADALAH.png" group-title="|AR| ARABIC VIP",AR - AL ADALAH TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257720&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257720&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257720&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257720&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257720&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257720&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257720&extension=m3u8
+#EXTINF:-1 tvg-id="257715" tvg-logo="https://logo.protv.cc/piconsnew/bahrainsport1hd.png" group-title="|AR| ARABIC VIP",AR - BAHRAIN LAWAL
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257715&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257715&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257715&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257715&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257715&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257715&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257715&extension=m3u8
+#EXTINF:-1 tvg-id="257717" tvg-logo="https://logo.protv.cc/piconsnew/almaaref.png" group-title="|AR| ARABIC VIP",AR - AL MAAREF
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257717&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257717&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257717&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257717&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257717&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257717&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257717&extension=m3u8
+#EXTINF:-1 tvg-id="257734" tvg-logo="https://www.pngall.com/wp-content/uploads/2016/05/Oman-Flag-PNG-Image.png" group-title="|AR| ARABIC VIP",##### OMAN VIP #####
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257734&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257734&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257734&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257734&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257734&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257734&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257734&extension=m3u8
+#EXTINF:-1 tvg-id="257738" tvg-logo="https://logo.protv.cc/piconsnew/omantv.png" group-title="|AR| ARABIC VIP",AR - OMAN CULTURE TV UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257738&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257738&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257738&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257738&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257738&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257738&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257738&extension=m3u8
+#EXTINF:-1 tvg-id="257735" tvg-logo="https://logo.protv.cc/piconsnew/omantv.png" group-title="|AR| ARABIC VIP",AR - OMAN TV UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257735&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257735&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257735&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257735&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257735&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257735&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257735&extension=m3u8
+#EXTINF:-1 tvg-id="257737" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/OMAN-ALISTIQAMA.png" group-title="|AR| ARABIC VIP",AR - OMAN ALISTIQAMA TV
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257737&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257737&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257737&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257737&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257737&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257737&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257737&extension=m3u8
+#EXTINF:-1 tvg-id="257736" tvg-logo="https://logo.protv.cc/piconsnew/omantv.png" group-title="|AR| ARABIC VIP",AR - OMAN LIVE TV UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=257736&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=257736&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=257736&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=257736&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=257736&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=257736&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=257736&extension=m3u8
+#EXTINF:-1 tvg-id="556874" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/AL-KARAMA-PRAISE.png" group-title="|AR| ARABIC VIP",AR - AL KARAMA PRAISE
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556874&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556874&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=556874&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556874&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556874&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556874&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556874&extension=m3u8
+#EXTINF:-1 tvg-id="556873" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/ABN-SAT.png" group-title="|AR| ARABIC VIP",AR - ABN SAT
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556873&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556873&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=556873&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556873&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556873&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556873&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556873&extension=m3u8
+#EXTINF:-1 tvg-id="556871" tvg-logo="http://51.158.145.100/picons/logos/logos/ISHTAR.png" group-title="|AR| ARABIC VIP",AR - ISHTAR TV UHD
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=556871&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=556871&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=556871&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:40:70:4F&stream=556871&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=556871&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=556871&extension=m3u8
+http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=556871&extension=m3u8
