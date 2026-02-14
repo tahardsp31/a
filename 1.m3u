@@ -1474,7 +1474,7 @@ http://line.venomtv.me:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=594485&exte
 
 
 
-#EXTINF:-1 tvg-id="804241" tvg-logo="http://103.176.90.118/picons/logos/logos/EL-REPLAY.png" group-title="|AR| BEIN REPLAY",##### CL REPLAY #####
+#EXTINF:-1 tvg-id="804241" tvg-logo="https://iili.io/60QD5N.md.png" group-title="|AR| BEIN REPLAY",##### CL REPLAY #####
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:69:3F:2E&stream=804241&extension=m3u8
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=804241&extension=m3u8
 http://line.venomtv.me:80/play/live.php?mac=00:1A:79:B5:A7:3B&stream=804241&extension=m3u8
