@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="250106" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/ISLAMIC.png" group-title="ISLAMIC",ISLAMIC
 http://103.176.90.182:80/play/live.php?mac=00:1A:79:5E:F8:2A&stream=250106&extension=m3u8
 http://103.176.90.182:80/play/live.php?mac=00:1A:79:0D:20:AA&stream=250106&extension=m3u8
