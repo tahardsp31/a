@@ -45,16 +45,20 @@ http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263894&ext
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192748&extension=ts
 #EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 7
 
-
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 8
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263893&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192747&extension=ts
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 8
 
 
+
+
+
+
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 4k 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263919&extension=ts
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263971&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192767&extension=ts
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 4k 
+
 
 
 
