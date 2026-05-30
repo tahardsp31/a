@@ -1,83 +1,105 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285658&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192767&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 
+
 
 #EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285657&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192767&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285656&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192753&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 
 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 4 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285655&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192752&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 4 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 5 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285654&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192751&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 5 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 6 
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285653&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192750&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 6 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 7 
+
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285652&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192749&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 7 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 8 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285651&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192748&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 8 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 9
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285650&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192747&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 9
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 4k 
+
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263971&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192767&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 4k 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 4k 
+
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263970&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192767&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 4k 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 4k 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263969&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192766&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 4k 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 4 4k 
+
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263968&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192765&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 4 4k 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 5 4k 
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263967&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192764&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 5 4k 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 6 4k 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263966&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192763&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 6 4k 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 7 4k 
+
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263965&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192762&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 7 4k 
 
 
-#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 8 4k 
+
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263964&extension=ts
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192761&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 8 4k 
+
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263963&extension=ts
+http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192767&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 9 4k 
