@@ -9,14 +9,14 @@ http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:40:70:4F&stream=285660&ext
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=285660&extension=m3u8
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=285660&extension=m3u8
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=285660&extension=m3u8
-#EXTINF:-1 tvg-id="285658" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d8%af%d9%8a%d8%b3.png" group-title="ISLAMIC",عبد الرحمن السديس
-http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=285658&extension=m3u8
-http://pro.domaibs.shop:80/play/live.php?mac=A0:BB:3E:08:C7:39&stream=285658&extension=m3u8
-http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:2B:B4:96&stream=285658&extension=m3u8
-http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:40:70:4F&stream=285658&extension=m3u8
-http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=285658&extension=m3u8
-http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=285658&extension=m3u8
-http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=285658&extension=m3u8
+#EXTINF:-1 tvg-id="264016" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d8%af%d9%8a%d8%b3.png" group-title="ISLAMIC",عبد الرحمن السديس
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=264016&extension=m3u8
+http://pro.domaibs.shop:80/play/live.php?mac=A0:BB:3E:08:C7:39&stream=264016&extension=m3u8
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:2B:B4:96&stream=264016&extension=m3u8
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:40:70:4F&stream=264016&extension=m3u8
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:C7:BA:1D&stream=264016&extension=m3u8
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:F9:EB:51&stream=264016&extension=m3u8
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:E6:52:EF&stream=264016&extension=m3u8
 #EXTINF:-1 tvg-id="986020" tvg-logo="http://103.176.90.118/picons/logos/logos/%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d8%b5%d9%85%d8%af.png" group-title="ISLAMIC",عبد الباسط عبد الصمد
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=986020&extension=m3u8
 http://pro.domaibs.shop:80/play/live.php?mac=A0:BB:3E:08:C7:39&stream=986020&extension=m3u8
