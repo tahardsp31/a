@@ -613,9 +613,9 @@ http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=618829&extension
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=753472&extension=ts
 #EXTINF:-1 group-title="FR| NETFLIX PLAY",NETFLIX PLAY|  MOVIES 2
+http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=753472&extension=ts
+
 
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=753484&extension=ts
 #EXTINF:-1 group-title="FR| NETFLIX PLAY",NETFLIX PLAY| 13 Reasons Why
