@@ -273,8 +273,8 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=520282&extension
 
 
 
-          http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288421&extension=ts
-          #EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: ANIMAUX ᴿᴬᵂ
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288421&extension=ts
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: ANIMAUX ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288422&extension=ts
 #EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",#### DOCUMENTAIRE ᴴᴰ/4K ####
@@ -385,8 +385,8 @@ http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288388&ext
 
 
 
-       http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=656055&extension=ts
-        #EXTINF:-1 group-title="FR| CINE-ACTEUR",CINE ACTEUR| Adam Sandler
+http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=656055&extension=ts
+#EXTINF:-1 group-title="FR| CINE-ACTEUR",CINE ACTEUR| Adam Sandler
 
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=637963&extension=ts
 #EXTINF:-1 group-title="FR| CINE-ACTEUR",CINE ACTEUR| Aldo Maccione
