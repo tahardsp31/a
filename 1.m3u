@@ -116,10 +116,11 @@ http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263911&ext
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=907213&extension=ts
 #EXTINF:-1 group-title="AR| Algerie",ALG| ALGERIE TV6
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97646&extension=ts
-#EXTINF:-1 group-title="AR| Algerie",=AR= Algerie =AR=
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97647&extension=ts
+#EXTINF:-1 group-title="AR| Algerie",ALG| ENTV Algerie
+
+http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97653&extension=ts
 #EXTINF:-1 group-title="AR| Algerie",ALG| Canal Algerie
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97648&extension=ts
@@ -134,8 +135,7 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97651&extension=
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97652&extension=ts
 #EXTINF:-1 group-title="AR| Algerie",ALG| El Bilad
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97653&extension=ts
-#EXTINF:-1 group-title="AR| Algerie",ALG| ENTV Algerie
+
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97654&extension=ts
 #EXTINF:-1 group-title="AR| Algerie",ALG| Ennahar Algerie
@@ -181,7 +181,6 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97668&extension=
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97669&extension=ts
 #EXTINF:-1 group-title="AR| Algerie",ALG| Al Anis TV
-
 
 
 
