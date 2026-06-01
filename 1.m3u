@@ -185,50 +185,83 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97669&extension=
 
 
 
+
+
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58943&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289354&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58945&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 2 SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289349&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 2 ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58946&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 3 SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289348&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 3 ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58947&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 4 SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289344&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 4 ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58948&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 5 SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289341&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 5 ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58949&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| M6 SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289298&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| M6 ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58961&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| 6TER SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289333&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| 6 TER ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58992&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TMC SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289253&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TMC ᴴᴰ
+
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58997&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TFX SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289255&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TFX ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58998&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 SERIES / FILMS SD
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 +1
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289351&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 +1 ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58991&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TEVA SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289257&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TEVA ᴴᴰ
+
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=59003&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| AB1 SD
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58990&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| RTL9 SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289262&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| RTL9 ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58996&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| W9 SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289243&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| W9 ᴴᴰ
+
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58994&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| CSTAR SD
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289315&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| CSTAR ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58989&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| SERIE CLUB SD
@@ -260,6 +293,33 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=951514&extension
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=59006&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| E! ENTERTAINMENT SD
 
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289287&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| NRJ 12 ᴿᴬᵂ
+
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289283&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| OCS CHOC ᴿᴬᵂ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289282&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| OCS CHOC ᴴᴰ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289281&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TECH&ECO
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289280&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| OCS GEANTS ᴿᴬᵂ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289279&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| OCS MAX ᴴᴰ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289278&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| PARAMOUNT CHANNEL ᴿᴬᵂ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289277&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| PARAMOUNT CHANNEL ᴴᴰ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289276&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| PARIS PREMIERE ᴴᴰ
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=390416&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| OLYMPIA TV SD
@@ -267,8 +327,35 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=390416&extension
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=643268&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| NOVELAS TV SD
 
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289320&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| C8 ᴴᴰ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289329&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| ARTE ᴴᴰ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289323&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| BFM TV ᴴᴰ
+
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=520282&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",SD| ORANGE PLAY 6
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289293&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| My CANAL 1 ᴿᴬᵂ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289292&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| My CANAL 2 ᴿᴬᵂ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289291&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| My CANAL 3 ᴿᴬᵂ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289290&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| My CANAL 4 ᴿᴬᵂ
+
+http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=289289&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| My CANAL 5 ᴿᴬᵂ
+
+
 
 
 
