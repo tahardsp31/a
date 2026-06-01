@@ -185,17 +185,12 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97669&extension=
 
 
 
+
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58943&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124902&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 HEVC
-
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58945&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 2 SD
-
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124904&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 2 HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58946&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 3 SD
@@ -206,38 +201,20 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58947&extension=
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58948&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 5 SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124907&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| FRANCE 5 HEVC
-
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58949&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| M6 SD
-
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=67137&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| M6 HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58961&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| 6TER SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124920&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| 6TER HEVC
-
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58992&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TMC SD
-
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124913&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TMC HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58997&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TFX SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=67171&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TFX HEVC
-
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58998&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 SERIES / FILMS SD
-
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124917&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 SERIES & FILMS HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58991&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TEVA SD
@@ -245,32 +222,17 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58991&extension=
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=59003&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| AB1 SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124953&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| AB1 HEVC
-
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58990&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| RTL9 SD
-
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=67166&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| RTL9 HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58996&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| W9 SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124912&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| W9 HEVC
-
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58994&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| CSTAR SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124918&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| CSTAR HEVC
-
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58989&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| SERIE CLUB SD
-
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=67175&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TV BREIZH HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=59002&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TV BREIZH SD
@@ -281,23 +243,14 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58986&extension=
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=59017&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| SYFY SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=67189&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| SYFY HEVC
-
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=148184&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| WARNER TV SD
-
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124870&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| WARNER TV HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58988&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| PARIS PREMIERE SD
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58987&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| COMEDIE+ SD
-
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124925&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| COMEDIE+ HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=59001&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| RMC STORY SD
@@ -308,8 +261,6 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=951514&extension
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=59006&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| E! ENTERTAINMENT SD
 
-http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=67138&extension=ts
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| ARTE HEVC
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=390416&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| OLYMPIA TV SD
@@ -319,7 +270,6 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=643268&extension
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=520282&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",SD| ORANGE PLAY 6
-
 
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=553397&extension=ts
