@@ -86,11 +86,11 @@ http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263912&ext
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192759&extension=ts
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263911&extension=ts
 #EXTINF:-1 group-title="|AR| BEIN SPORTS HD",BEIN SPORTS 9 HD
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#EXTINF:-1 group-title="AR| Algerie",ALG| ALGERIE TV6
+
+
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=907213&extension=ts
-
+#EXTINF:-1 group-title="AR| Algerie",ALG| ALGERIE TV6
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97646&extension=ts
 #EXTINF:-1 group-title="AR| Algerie",=AR= Algerie =AR=
@@ -158,11 +158,12 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97668&extension=
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=97669&extension=ts
 #EXTINF:-1 group-title="AR| Algerie",ALG| Al Anis TV
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 SD
+
+
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=58943&extension=ts
+#EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 SD
 
 http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=124902&extension=ts
 #EXTINF:-1 group-title="FR| FRANCE HEVC SD",FR| TF1 HEVC
@@ -300,11 +301,11 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=520282&extension
 
 
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#EXTINF:-1 group-title="FR| CINE-ACTEUR",CINE ACTEUR| Adam Sandler
+
+
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=656055&extension=ts
-
+#EXTINF:-1 group-title="FR| CINE-ACTEUR",CINE ACTEUR| Adam Sandler
 
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=637963&extension=ts
 #EXTINF:-1 group-title="FR| CINE-ACTEUR",CINE ACTEUR| Aldo Maccione
@@ -606,11 +607,10 @@ http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=169385&extension
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=618829&extension=ts
 #EXTINF:-1 group-title="FR| CINE-ACTEUR",CINE ACTEUR| Whoopi Goldberg
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-#EXTINF:-1 group-title="FR| NETFLIX PLAY",NETFLIX PLAY|  MOVIES 2
+
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=753472&extension=ts
-
+#EXTINF:-1 group-title="FR| NETFLIX PLAY",NETFLIX PLAY|  MOVIES 2
 
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=753484&extension=ts
 #EXTINF:-1 group-title="FR| NETFLIX PLAY",NETFLIX PLAY| 13 Reasons Why
