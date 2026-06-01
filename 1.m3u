@@ -273,109 +273,106 @@ http://700730.org:80/play/live.php?mac=00:1A:79:D4:34:C7&stream=520282&extension
 
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288421&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: ANIMAUX ᴿᴬᵂ
-
-http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288422&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",#### DOCUMENTAIRE ᴴᴰ/4K ####
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: ANIMAUX ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288420&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: ANIMAUX ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: ANIMAUX ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288419&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: DISCOVERY CHANNEL ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: DISCOVERY CHANNEL ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288418&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: DISCOVERY INVESTIGATION ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: DISCOVERY INVESTIGATION ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288417&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: DISCOVERY INVESTIGATION ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: DISCOVERY INVESTIGATION ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288416&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: DISCOVERY SCIENCE ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: DISCOVERY SCIENCE ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288415&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: DISCOVERY SCIENCE ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: DISCOVERY SCIENCE ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288414&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: DISCOVERY TV ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: DISCOVERY TV ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288413&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: HISTOIRE ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: HISTOIRE ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288412&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: HISTOIRE ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: HISTOIRE ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288411&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: NAT GEO ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: NAT GEO ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288410&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: NAT GEO WILD ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: NAT GEO WILD ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288409&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: NAT GEO WILD ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: NAT GEO WILD ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288408&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: NATIONAL GEO ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: NATIONAL GEO ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288407&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: SCIENCE ET VIE ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: SCIENCE ET VIE ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288406&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: SCIENCES & VIE ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: SCIENCES & VIE ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288405&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: TOUTE L'HISTOIRE ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: TOUTE L'HISTOIRE ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288404&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: TOUTE L'HISTOIRE ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: TOUTE L'HISTOIRE ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288403&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: USHUAIA ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: USHUAIA ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288402&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: USHUAIA TV ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: USHUAIA TV ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288401&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: CHASSE PECHE ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: CHASSE PECHE ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288400&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: CHASSE & PÊCHE ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: CHASSE & PÊCHE ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288399&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: CRIME DISTRICT ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: CRIME DISTRICT ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288398&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: CHASSE ET PECHE ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: CHASSE ET PECHE ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288397&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: CRIME DISTRICT ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: CRIME DISTRICT ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288396&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: MUSEUM ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: MUSEUM ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288395&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: MUSEUM ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: MUSEUM ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288394&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: PLANET PLUS ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: PLANET PLUS ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288393&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: RMC DECOUVERTE ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: RMC DECOUVERTE ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288392&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: RMC Decouverte ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: RMC Decouverte ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288391&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: RMC STORY ᴿᴬᵂ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: RMC STORY ᴿᴬᵂ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288390&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: RMC STORY ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: RMC STORY ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288389&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: SEASON ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: SEASON ᴴᴰ
 
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=288388&extension=ts
-#EXTINF:-1 group-title="FR| DOCUMENTAIRE ᴴᴰ/ᴿᴬᵂ",FR: VOYAGE ᴴᴰ
+#EXTINF:-1 group-title="FR| DOCUMENTAIRE,FR: VOYAGE ᴴᴰ
 
 
 
