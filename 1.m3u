@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 1
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192754&extension=ts
+
 http://pro.domaibs.shop:80/play/live.php?mac=00:1A:79:54:A1:ED&stream=263901&extension=ts
+#EXTINF:-1 group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 +
 
 
 http://700730.org:80/play/live.php?mac=00:1A:79:C5:B5:96&stream=192753&extension=ts
